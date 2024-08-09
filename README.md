@@ -45,10 +45,11 @@
 <div class="">
 	<h3 align="left">Backend:</h3>
 	<p align="left">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="apache" width="40" height="40" />
+		<img src="https://raw.githubusercontent.com/Geekxboy/Geekxboy/main/icons/express-original.svg" alt="express" width="40" height="40" />
 		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40" />
 	</p>
 </div>
 
@@ -66,7 +67,7 @@
 <div class="">
 	<h3 align="left">Databases:</h3>
 	<p align="left">
-		<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+		<img src="https://raw.githubusercontent.com/Geekxboy/Geekxboy/main/icons/mariadb-original.svg" alt="mariadb" width="40" height="40" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
 		<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
@@ -77,9 +78,9 @@
 <div class="">
 	<h3 align="left">DevOps:</h3>
 	<p align="left">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+		<img src="https://raw.githubusercontent.com/Geekxboy/Geekxboy/main/icons/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
 		<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-		<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40" />
+		<img src="https://raw.githubusercontent.com/Geekxboy/Geekxboy/main/icons/circleci-plain.svg" alt="circleci" width="40" height="40" />
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 		<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
@@ -108,8 +109,8 @@
 <div class="">
 	<h3 align="left">Game Engines:</h3>
 	<p align="left">
-		<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-		<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" />
+		<img src="https://raw.githubusercontent.com/Geekxboy/Geekxboy/main/icons/unity-plain.svg" alt="unity" width="40" height="40" />
+		<img src="https://raw.githubusercontent.com/Geekxboy/Geekxboy/main/icons/unrealengine-original.svg" alt="unreal" width="40" height="40" />
 		<img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/GameMakerStudio2.svg" alt="gamemaker" width="40" height="40" />
 	</p>
 </div>
