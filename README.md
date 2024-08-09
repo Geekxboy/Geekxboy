@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">I create Software, APIs, Websites, Backend Systems & Frontend Designs.</h3>
+<h1 align="center">Well hello there</h1>
+<h3 align="center">I'm Justin and I create Software, APIs, Websites, Backend Systems & Frontend Designs.</h3>
 
 - 🔭 I’m currently working on [ModernSam](https://modernsam.com/)
 
