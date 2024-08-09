@@ -1,8 +1,11 @@
 <h1 align="center">Well hello there</h1>
 <h3 align="center">I'm Justin and I create Software, APIs, Websites, Backend Systems & Frontend Designs.</h3>
-- 🔭 I’m currently working on [ModernSam](https://modernsam.com/)<br />
-- 💬 Ask me about anything related to video game developement, network infrastructure, and any programming language listed<br />
-- ⚡ Fun fact: I like to break things other people build <br />
+
+- 🔭 I’m currently working on [ModernSam](https://modernsam.com/)
+
+- 💬 Ask me about **anything related to video game developement, network infrastructure, and any programming language listed**
+
+- ⚡ Fun fact **I like to break things**
 
 <div class="">
 	<h3 align="left">Languages:</h3>
